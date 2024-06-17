@@ -1,0 +1,275 @@
+{
+  "shortDescription": "Test your knowledge of scientists and inventors.",
+  "questions": [
+    {
+      "question": "Who invented the telephone?",
+      "answers": [
+        "Bell",
+        "Edison",
+        "Tesla"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "answers": [
+        "Einstein",
+        "Newton",
+        "Maxwell"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is known as the father of modern chemistry?",
+      "answers": [
+        "Lavoisier",
+        "Curie",
+        "Boyle"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who invented the light bulb?",
+      "answers": [
+        "Edison",
+        "Tesla",
+        "Bell"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who discovered penicillin?",
+      "answers": [
+        "Fleming",
+        "Pasteur",
+        "Lister"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the founder of Microsoft?",
+      "answers": [
+        "Gates",
+        "Jobs",
+        "Page"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who invented the World Wide Web?",
+      "answers": [
+        "Berners-Lee",
+        "Jobs",
+        "Gates"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who developed the polio vaccine?",
+      "answers": [
+        "Salk",
+        "Fleming",
+        "Pasteur"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is known as the father of electricity?",
+      "answers": [
+        "Faraday",
+        "Volta",
+        "Tesla"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who invented the first mechanical computer?",
+      "answers": [
+        "Babbage",
+        "Turing",
+        "Pascal"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who discovered the law of gravity?",
+      "answers": [
+        "Newton",
+        "Einstein",
+        "Galileo"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who invented the airplane?",
+      "answers": [
+        "Wright",
+        "Bell",
+        "Edison"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who discovered radioactivity?",
+      "answers": [
+        "Curie",
+        "Rutherford",
+        "Bohr"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is known for the laws of motion?",
+      "answers": [
+        "Newton",
+        "Einstein",
+        "Galileo"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who invented the phonograph?",
+      "answers": [
+        "Edison",
+        "Bell",
+        "Tesla"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is known for the theory of evolution?",
+      "answers": [
+        "Darwin",
+        "Lamarck",
+        "Wallace"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who invented the diesel engine?",
+      "answers": [
+        "Diesel",
+        "Otto",
+        "Benz"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who developed the first successful polio vaccine?",
+      "answers": [
+        "Salk",
+        "Pasteur",
+        "Fleming"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who discovered the electron?",
+      "answers": [
+        "Thomson",
+        "Rutherford",
+        "Bohr"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is known for the uncertainty principle?",
+      "answers": [
+        "Heisenberg",
+        "Schr\u00f6dinger",
+        "Dirac"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who invented the radio?",
+      "answers": [
+        "Marconi",
+        "Tesla",
+        "Edison"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who developed the first mechanical computer?",
+      "answers": [
+        "Babbage",
+        "Turing",
+        "Pascal"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who discovered X-rays?",
+      "answers": [
+        "R\u00f6ntgen",
+        "Curie",
+        "Rutherford"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the father of quantum mechanics?",
+      "answers": [
+        "Planck",
+        "Einstein",
+        "Bohr"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who invented the first vaccine?",
+      "answers": [
+        "Jenner",
+        "Pasteur",
+        "Lister"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who discovered the neutron?",
+      "answers": [
+        "Chadwick",
+        "Rutherford",
+        "Bohr"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is known for his work on alternating current (AC)?",
+      "answers": [
+        "Tesla",
+        "Edison",
+        "Faraday"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who developed the first antibiotic?",
+      "answers": [
+        "Fleming",
+        "Pasteur",
+        "Jenner"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the father of computer science?",
+      "answers": [
+        "Turing",
+        "Babbage",
+        "Pascal"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who invented the telescope?",
+      "answers": [
+        "Galileo",
+        "Newton",
+        "Kepler"
+      ],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
