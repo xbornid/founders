@@ -1,275 +1,155 @@
 {
-  "shortDescription": "Test your knowledge of scientists and inventors.",
+  "shortDescription": "Test your knowledge of $MASKS by @xbornid",
   "questions": [
     {
-      "question": "Who invented the telephone?",
-      "answers": [
-        "Bell",
-        "Edison",
-        "Tesla"
-      ],
+      "question": "What type of token is $MASKS?",
+      "answers": ["ERC-20", "ERC-721", "BEP-20"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who developed the theory of relativity?",
-      "answers": [
-        "Einstein",
-        "Newton",
-        "Maxwell"
-      ],
+      "question": "On which network does $MASKS operate?",
+      "answers": ["Ethereum", "Optimism", "Binance"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is the primary use of $MASKS?",
+      "answers": ["Staking", "Tipping", "Voting"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is the total initial issuance of $MASKS tokens?",
+      "answers": ["10B", "15B", "21B"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Community AIRDROP's $MASKS percentage?",
+      "answers": ["50%", "60%", "70%"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "When does the planned inflation rate of 1% start?",
+      "answers": ["2025", "2026", "2027"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "How can Farcaster users send a tip?",
+      "answers": ["Link", "Emoji🎭", "Message"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "$MASKS for liquidity providers' rewards percentage?",
+      "answers": ["10%", "15%", "20%"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "How long is the first airdrop distribution period?",
+      "answers": ["2m", "4m", "6m"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is known as the father of modern chemistry?",
-      "answers": [
-        "Lavoisier",
-        "Curie",
-        "Boyle"
-      ],
+      "question": "What is a key benefit of using Optimism?",
+      "answers": ["High cost", "Quick tx", "Low sec"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What can users receive from airdrops?",
+      "answers": ["NFTs", "$MASKS", "ETH"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What can $MASKS holders influence?",
+      "answers": ["Key decisions", "Listings", "Policies"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who invented the light bulb?",
-      "answers": [
-        "Edison",
-        "Tesla",
-        "Bell"
-      ],
+      "question": "What is the main feature of $MASKS tipping?",
+      "answers": ["Anon", "User-friendly", "Cost"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is the ticker of MASKS?",
+      "answers": ["$MASK", "$MASKS", "$MSK"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Where can $MASKS be traded?",
+      "answers": ["DEX", "CEX", "Both"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who discovered penicillin?",
-      "answers": [
-        "Fleming",
-        "Pasteur",
-        "Lister"
-      ],
+      "question": "Who benefits from $MASKS inflation?",
+      "answers": ["Early adopters", "All holders", "Developers"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is the reward for liquidity providers?",
+      "answers": ["$MASKS", "ETH", "USDT"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is the founder of Microsoft?",
-      "answers": [
-        "Gates",
-        "Jobs",
-        "Page"
-      ],
+      "question": "What does $MASKS aim to enhance?",
+      "answers": ["Privacy", "Engagement", "Scalability"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "How often is $MASKS distributed?",
+      "answers": ["Daily", "Weekly", "Monthly"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Want tips @xbornid click ty 🎭",
+      "answers": ["Next", "No", "Done"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is the governance model of $MASKS?",
+      "answers": ["Centralized", "Decentralized", "Hybrid"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is a unique feature of $MASKS airdrop?",
+      "answers": ["Random", "Predict", "Sched"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Want tips @xbornid click ty 🎭",
+      "answers": ["Next", "No", "Done"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What platform is $MASKS integrated with?",
+      "answers": ["Twitter", "Farcaster", "Facebook"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "How can $MASKS improve social media?",
+      "answers": ["Monetiz", "Security", "Interact"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is the emission rate of $MASKS after 2026?",
+      "answers": ["0.5%", "1%", "1.5%"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "How is the $MASKS supply controlled?",
+      "answers": ["Smart", "Manual", "Voting"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who invented the World Wide Web?",
-      "answers": [
-        "Berners-Lee",
-        "Jobs",
-        "Gates"
-      ],
+      "question": "Who can influence $MASKS decisions?",
+      "answers": ["Holders", "Devs", "Traders"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who developed the polio vaccine?",
-      "answers": [
-        "Salk",
-        "Fleming",
-        "Pasteur"
-      ],
+      "question": "What is a key benefit of $MASKS tipping?",
+      "answers": ["Reward", "Visibil", "Profit"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Who is known as the father of electricity?",
-      "answers": [
-        "Faraday",
-        "Volta",
-        "Tesla"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who invented the first mechanical computer?",
-      "answers": [
-        "Babbage",
-        "Turing",
-        "Pascal"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who discovered the law of gravity?",
-      "answers": [
-        "Newton",
-        "Einstein",
-        "Galileo"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who invented the airplane?",
-      "answers": [
-        "Wright",
-        "Bell",
-        "Edison"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who discovered radioactivity?",
-      "answers": [
-        "Curie",
-        "Rutherford",
-        "Bohr"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who is known for the laws of motion?",
-      "answers": [
-        "Newton",
-        "Einstein",
-        "Galileo"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who invented the phonograph?",
-      "answers": [
-        "Edison",
-        "Bell",
-        "Tesla"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who is known for the theory of evolution?",
-      "answers": [
-        "Darwin",
-        "Lamarck",
-        "Wallace"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who invented the diesel engine?",
-      "answers": [
-        "Diesel",
-        "Otto",
-        "Benz"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who developed the first successful polio vaccine?",
-      "answers": [
-        "Salk",
-        "Pasteur",
-        "Fleming"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who discovered the electron?",
-      "answers": [
-        "Thomson",
-        "Rutherford",
-        "Bohr"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who is known for the uncertainty principle?",
-      "answers": [
-        "Heisenberg",
-        "Schr\u00f6dinger",
-        "Dirac"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who invented the radio?",
-      "answers": [
-        "Marconi",
-        "Tesla",
-        "Edison"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who developed the first mechanical computer?",
-      "answers": [
-        "Babbage",
-        "Turing",
-        "Pascal"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who discovered X-rays?",
-      "answers": [
-        "R\u00f6ntgen",
-        "Curie",
-        "Rutherford"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who is the father of quantum mechanics?",
-      "answers": [
-        "Planck",
-        "Einstein",
-        "Bohr"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who invented the first vaccine?",
-      "answers": [
-        "Jenner",
-        "Pasteur",
-        "Lister"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who discovered the neutron?",
-      "answers": [
-        "Chadwick",
-        "Rutherford",
-        "Bohr"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who is known for his work on alternating current (AC)?",
-      "answers": [
-        "Tesla",
-        "Edison",
-        "Faraday"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who developed the first antibiotic?",
-      "answers": [
-        "Fleming",
-        "Pasteur",
-        "Jenner"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who is the father of computer science?",
-      "answers": [
-        "Turing",
-        "Babbage",
-        "Pascal"
-      ],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Who invented the telescope?",
-      "answers": [
-        "Galileo",
-        "Newton",
-        "Kepler"
-      ],
-      "correctAnswerIndex": 0
+      "question": "How can users earn $MASKS?",
+      "answers": ["Holding", "Send Tips", "Receive Tips"],
+      "correctAnswerIndex": 2
     }
   ]
 }
