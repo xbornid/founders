@@ -23,15 +23,15 @@ export const app = new Frog({
 app.frame('/', async c => {
   const { appTitle } = await configureApp(app, c, 'appAuthUrl')
 
-  const intents = [<Button action="/next">⭐ Start</Button>]
+  const intents = [<Button action="/next">🕹️ Play Game</Button>]
 
   return c.res({
     title: appTitle,
     image: (
       <Box grow alignVertical="center" backgroundColor="white" padding="32" border={BORDER_SIMPLE}>
         <VStack gap="4">
-          <Heading color="h1Text" align="center" size="64">
-            Quiz time!
+          <Heading color="h1Text" align="center" size="60">
+            🎭 MASKS QUIZ!
           </Heading>
 
           <Text align="center" size="18">
@@ -52,8 +52,7 @@ app.frame('/next', async c => {
   const quiz = new Quiz(quizData, questionIndex, points)
   const isLastQuestion = questionIndex >= quiz.questions.length - 1
   const action = isLastQuestion ? '/result' : '/next'
-  const message = encodeURIComponent(`🚀 Check out the Quiz!`)
-  const buttonUrl = `https://warpcast.com/~/compose?text=${message}&embeds[]=${appShareUrl}`
+  const buttonUrl = `https://warpcast.com/xbornid/0xb151de8d`
 
   const answers = quiz.questions[questionIndex].answers.map((item, index) => ({
     text: item,
@@ -71,7 +70,7 @@ app.frame('/next', async c => {
         </Button>
       )
     }),
-    <Button.Link href={buttonUrl}>🔗 Share</Button.Link>,
+    <Button.Link href={buttonUrl}>ty🎭</Button.Link>,
   ])
 
   return c.res({
@@ -79,7 +78,7 @@ app.frame('/next', async c => {
     image: (
       <Box grow alignVertical="center" backgroundColor="white" padding="32" border={BORDER_SIMPLE}>
         <VStack gap="4">
-          <Heading color="h1Text" align="center" size="64">
+          <Heading color="h1Text" align="center" size="60">
             {quiz.questions[questionIndex].question}
           </Heading>
           <Text align="center" size="18">
@@ -244,7 +243,7 @@ app.frame('/answers', async c => {
     image: (
       <Box grow alignVertical="center" backgroundColor="white" padding="32" border={BORDER_SIMPLE}>
         <VStack gap="4">
-          <Heading color="h1Text" align="center" size="64">
+          <Heading color="h1Text" align="center" size="60">
             {quiz.questions[questionIndex].question}
           </Heading>
 
