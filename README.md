@@ -1,4 +1,4 @@
-# Scientists and Investors Quiz
+# Test your knowledge of $MASKS by @xbornid
 Published: [Warpcast](https://warpcast.com/xbornid/0xa8df8b0f)
 
 ## Video Tutorial
